@@ -100,7 +100,7 @@ npm run dev
 1. Enable required APIs:
 
 ```bash
-gcloud services enable run.googleapis.com textToSpeech.googleapis.com
+gcloud services enable run.googleapis.com texttospeech.googleapis.com
 ```
 
 2. Create a service account for Cloud Run:
